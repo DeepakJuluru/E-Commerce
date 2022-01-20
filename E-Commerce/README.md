@@ -1,4 +1,4 @@
-# ecommerce1
+# E-Commerce
 
 This is 10 Page E-commerce Front End website design
 
@@ -8,10 +8,10 @@ IDE: VS-Code
 
 Note: Bot is deployed on contact page
 
-Industry*:
+Industry:
 Lifestyle
 
-Project Title*:
+Project Title:
 E-Commerce Website with FAQ Bot
 
 Problem Statement/Opportunity*:
